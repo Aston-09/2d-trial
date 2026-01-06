@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: white;
+  text-align: center;
+}
+
+#game {
+  width: 420px;
+  margin: auto;
+  background: #1e293b;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#map {
+  background: #020617;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+button {
+  margin: 4px;
+  padding: 8px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
